@@ -1,0 +1,14 @@
+//
+//  LightLED.h
+//  练习---小画板
+//
+//  Created by RainPoll on 16/6/6.
+//  Copyright © 2016年 itcast. All rights reserved.
+//
+
+#ifndef LightLED_h
+#define LightLED_h
+
+#include <stdio.h>
+
+#endif /* LightLED_h */
